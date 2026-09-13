@@ -1,6 +1,6 @@
 Package: com.nogadamachine.ginppai.kakaocustomizer
 Name: Ginppai-Kakao-Customizer
-Version: 2.3.1
+Version: 2.3.2
 Architecture: iphoneos-arm
 Section: Tweaks
 Priority: optional
@@ -10,16 +10,16 @@ Depends: firmware (>= 17.0), mobilesubstrate | ellekit
 Description: KakaoTalk 26.7.3 UI customization and original profile media saving.
 Homepage: https://github.com/nogadamachine/Ginppai-Kakao-Customizer
 Depiction: https://nogadamachine.github.io/Ginppai-Repo/depictions/customizer.html
-Installed-Size: 241
-Filename: debs/com.nogadamachine.ginppai.kakaocustomizer_2.3.1_iphoneos-arm.deb
-Size: 66410
-MD5sum: 8532177f92b85f2bd669f01bc9600368
-SHA1: 77441bbd4d65c5ee954e813a2879f3019e3a3708
-SHA256: af38cb840e8f3a99846fb72459ea447585d3372091140ad51e0bdab5d6efbf87
+Installed-Size: 243
+Filename: debs/com.nogadamachine.ginppai.kakaocustomizer_2.3.2_iphoneos-arm.deb
+Size: 67630
+MD5sum: 2dd33b671412d48f80f7b77da1a35946
+SHA1: a3d6cd449100d4550eb751adeb9764dc176563bf
+SHA256: 08716c6f94b269ad34f6183e8f0e6eeddcfc88519d53b1f3b9c045e85084df87
 
 Package: com.nogadamachine.ginppai.kakaocustomizer
 Name: Ginppai-Kakao-Customizer
-Version: 2.3.1
+Version: 2.3.2
 Architecture: iphoneos-arm64
 Section: Tweaks
 Priority: optional
@@ -29,12 +29,12 @@ Depends: firmware (>= 17.0), mobilesubstrate | ellekit
 Description: KakaoTalk 26.7.3 UI customization and original profile media saving.
 Homepage: https://github.com/nogadamachine/Ginppai-Kakao-Customizer
 Depiction: https://nogadamachine.github.io/Ginppai-Repo/depictions/customizer.html
-Installed-Size: 241
-Filename: debs/com.nogadamachine.ginppai.kakaocustomizer_2.3.1_iphoneos-arm64.deb
-Size: 66448
-MD5sum: 55b484062f0def02d1cf30148672dbd4
-SHA1: 459844738e2cedef5f2df9c17d0913e2203dd6dc
-SHA256: 56ae873681a12a65938066d24b84b7cc55fc044a7e22acb7ef55bbec510e4baa
+Installed-Size: 243
+Filename: debs/com.nogadamachine.ginppai.kakaocustomizer_2.3.2_iphoneos-arm64.deb
+Size: 67660
+MD5sum: 32d5e149f841e6aee5f6834c97c2237f
+SHA1: 4c258b6150fb9261af217d6ae1be3fa466f30d53
+SHA256: f4cb8583806929e76315a4bd160254426cab9efe07354b87bdd10e80b0726fa7
 
 Package: com.nogadamachine.ginppai.kakaoipad
 Name: Ginppai-Kakao-iPad
