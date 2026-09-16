@@ -6,12 +6,12 @@ Codename: ginppai
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: nogadamachine Ginppai jailbreak tweak repository
-Date: Sun, 13 Sep 2026 04:35:03 GMT
+Date: Wed, 16 Sep 2026 07:04:37 GMT
 MD5Sum:
- 09a6ae45127c23597eebc5939bf0c2ec 3242 Packages
- 8ac3569d308c71be7e20f43a4626d906 921 Packages.gz
- 85942e9c75c994aff19006947fd8a8e3 1092 Packages.bz2
+ 468f7937a4896cece77cfc6a5b0c373b 4940 Packages
+ afca525ab3e8e9ceee74b4fa0717afa2 1194 Packages.gz
+ 5ac416e9f2d6e06c7531599ac810c86d 1426 Packages.bz2
 SHA256:
- 92b15f2540ccad3db6008f79ee1f61f9ee9530152ba3fda77f0d5a1e3f62fb6f 3242 Packages
- 3ecbf64e07a9e6f94309428b2e6c6836a7e3a177108d2a44e0f73f0dd4030f0e 921 Packages.gz
- 1a3233533bb441043f78cae389f0f58c85a104e89cc80f0c615a62a4a5e4b926 1092 Packages.bz2
+ 4da46e15cc0f7cded4c7a84360aad7fd86aca2b709f0ad64285f76230a9ae2d1 4940 Packages
+ 6e8e8295542f50e7608b8630ada7a6987a1d76bfe28518ba0f151667e27f1b16 1194 Packages.gz
+ 1d20a1bc87c907e93c53968cb19a4a30b4197b56e81345a587f1da36edcbb2d0 1426 Packages.bz2

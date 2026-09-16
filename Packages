@@ -36,6 +36,44 @@ MD5sum: 32d5e149f841e6aee5f6834c97c2237f
 SHA1: 4c258b6150fb9261af217d6ae1be3fa466f30d53
 SHA256: f4cb8583806929e76315a4bd160254426cab9efe07354b87bdd10e80b0726fa7
 
+Package: com.nogadamachine.ginppai.kakaocustomizer
+Name: Ginppai-Kakao-Customizer
+Version: 3.0.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Priority: optional
+Maintainer: nogadamachine <78150070+nogadamachine@users.noreply.github.com>
+Author: nogadamachine
+Depends: firmware (>= 17.0), mobilesubstrate | ellekit
+Description: Personalize KakaoTalk with Ginppai: tabs, messages, original media saving and privacy controls.
+Homepage: https://github.com/nogadamachine/Ginppai-Kakao-Customizer
+Depiction: https://nogadamachine.github.io/Ginppai-Repo/depictions/customizer.html
+Installed-Size: 607
+Filename: debs/com.nogadamachine.ginppai.kakaocustomizer_3.0.0_iphoneos-arm.deb
+Size: 219854
+MD5sum: 013b61e713d93db3c21b854a5758576d
+SHA1: cda56667c90be258f60d8f6a8fdd6098f75beb9b
+SHA256: e6fbd858fb20981a8629ea6658a53a6b05a3b5e9db8ffe92564827c60cd4b406
+
+Package: com.nogadamachine.ginppai.kakaocustomizer
+Name: Ginppai-Kakao-Customizer
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Priority: optional
+Maintainer: nogadamachine <78150070+nogadamachine@users.noreply.github.com>
+Author: nogadamachine
+Depends: firmware (>= 17.0), mobilesubstrate | ellekit
+Description: Personalize KakaoTalk with Ginppai: tabs, messages, original media saving and privacy controls.
+Homepage: https://github.com/nogadamachine/Ginppai-Kakao-Customizer
+Depiction: https://nogadamachine.github.io/Ginppai-Repo/depictions/customizer.html
+Installed-Size: 607
+Filename: debs/com.nogadamachine.ginppai.kakaocustomizer_3.0.0_iphoneos-arm64.deb
+Size: 219894
+MD5sum: fd553876249008c67ebf2c4fad72f9ce
+SHA1: 31879c52558fda0ba03cb17eb5475c41f64b67da
+SHA256: 9734ccdfded3d2d9eed24ac2f1f32345adb30d289774fc097727754b8fc027dc
+
 Package: com.nogadamachine.ginppai.kakaoipad
 Name: Ginppai-Kakao-iPad
 Version: 1.0.0
