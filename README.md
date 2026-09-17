@@ -21,7 +21,7 @@ Sileo / Zebra / Cydia의 소스에 위 주소를 추가하세요. 루트풀과 �
 - 탈옥 루트리스: `iphoneos-arm64.deb`, `/var/jb/Library/MobileSubstrate/DynamicLibraries/`.
 - 비탈옥: 프로젝트 Releases의 `NonJailbreak.zip` 또는 `.dylib`. SideStore + LiveContainer에 넣거나 본인의 IPA에 주입한 뒤 SideStore로 서명합니다. SideStore는 DYLIB/DEB 자체를 단독 설치하지 않습니다.
 
-두 DEB에 들어 있는 코드는 같은 arm64 DYLIB이며 설치 경로만 다릅니다. 지원되는 트윅 로더가 있어야 합니다. 커스터마이저는 **카카오톡 26.7.3, iOS 17 이상**이 필요하고, 국가 선택은 별도 UI 패치가 있어야 활성화됩니다.
+두 DEB에 들어 있는 코드는 같은 arm64 DYLIB이며 설치 경로만 다릅니다. 지원되는 트윅 로더가 있어야 합니다. 커스터마이저는 **카카오톡 26.7.3 또는 26.8.0, iOS 17 이상**이 필요하고, 국가 선택은 별도 UI 패치가 있어야 활성화됩니다.
 
 **검증 구분:** 비탈옥 iOS 26.1 + LiveContainer 사용 환경을 기준으로 개발했습니다. DEB의 패키지 구조는 검사했지만 탈옥 기기 실사용은 미검증입니다. SideStore 직접 설치와 모든 iOS / 앱 조합을 검증한 것은 아닙니다. 프로젝트별 상세 안내를 읽어 주세요.
 
