@@ -1,0 +1,2 @@
+# Debian control files terminate package stanzas with a blank line.
+Packages whitespace=-blank-at-eof

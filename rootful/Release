@@ -1,0 +1,24 @@
+Origin: Ginppai Repo
+Label: Ginppai Repo (rootful)
+Suite: stable
+Version: 1.0
+Codename: ginppai
+Architectures: iphoneos-arm
+Components: main
+Description: nogadamachine Ginppai jailbreak tweak repository
+Date: Fri, 18 Sep 2026 13:47:45 GMT
+MD5Sum:
+ bca3d840dc3013272ebe00f54df241ae 1744 Packages
+ 2f6b840811b807256485c6944c10b677 723 Packages.gz
+ 6d0f605f4ada68441bd5ddd46bbd5d9d 848 Packages.bz2
+ eab32cbdb49ed4c13548d5adff4b5c2e 792 Packages.xz
+SHA256:
+ 143f3ff1e136baa5c8ea7576394b917ccb163db6246fe70459ddef73e09fcee7 1744 Packages
+ eb2c069dabe655aae4d0522d1143b56dc3ed3ce8d3e1127a78687d3e40704918 723 Packages.gz
+ 624f25c538dd3e75a1298d5579acd0202fc387c6d4427fdbfaa959bbeff614ac 848 Packages.bz2
+ 38808c4ea7a2bd3ad7728804506aaa86d2b6a76eb744c321b76e89aeb9b6239e 792 Packages.xz
+SHA512:
+ 734ff303fc113fbbaf9c7c2045bf0bc6bd40fa0c6a23c162aa15f4e0a558d5b5cf4cbca7bfd29bd3bf626aebbdc56d8da11a17fc9a8c249d25eb6db31967ff3c 1744 Packages
+ 2caeb148808b1ae43f4518397bdf33a8c4769d34433b8c65bcdb49175b26ae20cdd8bae4f36984a1f7f857560da77ec1bbfb10ad59d5ac4c3850b27d9a2d5244 723 Packages.gz
+ 5a7f9e314394a96559c6e7067b0569392a0c541aecd46c766c79cdf900cce4fec9608be60fc825f666982144a59e4ceaae9f508745611d102a071da1c314c99f 848 Packages.bz2
+ eb7365f1973e46f6d5eb35d569b5019fdb7494351a935627ac786dc13e0d52c897299325f0b5b96f6cf26ffa03a0f57212aace6871cc964d3127d220c1589397 792 Packages.xz
